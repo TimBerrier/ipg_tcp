@@ -81,6 +81,15 @@
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">1074541056</Property>
 		</Item>
+		<Item Name="Environment.ctl" Type="VI" URL="../Environment.ctl">
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!Z!!!!!1!R!0%!!!!!!!!!!B:-98.F=F^&amp;&gt;'BF=GZF&gt;#ZM&gt;G.M98.T#5.P&lt;H2S&lt;WQA-1!)!!!!!1!!!!!!!!</Property>
+			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">5242880</Property>
+			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1074541056</Property>
+		</Item>
 	</Item>
 	<Item Name="Process Laser State.vi" Type="VI" URL="../Process Laser State.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%@!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#Z!=!!?!!!9&amp;ERB=W6S8U6U;'6S&lt;G6U,GRW9WRB=X-!!!JP9GJF9X1A&lt;X6U!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!Z!-0````]%2'&amp;U91!!,%"Q!"Y!!"A74'&amp;T:8*@282I:8*O:81O&lt;(:D&lt;'&amp;T=Q!!#7^C;G6D&gt;#"J&lt;A"/!0!!#Q!$!!1!"!!&amp;!!1!"!!%!!9!"!!(!!A#!!$I!!!."Q!!!!!!!!!!!!#.#A!!!!!!!!!!!!!!!!!!#!!!!!!!!!))!!!!E!!!!!!"!!E!!!!!</Property>
