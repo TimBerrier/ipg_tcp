@@ -16,6 +16,7 @@
 		<Item Name="Laser Ethernet Rack.lvclass" Type="LVClass" URL="../Laser Ethernet Rack_class/Laser Ethernet Rack.lvclass"/>
 		<Item Name="Laser Ethernet Cabinet.lvclass" Type="LVClass" URL="../Laser Ethernet Cabinet_class/Laser Ethernet Cabinet.lvclass"/>
 		<Item Name="main.vi" Type="VI" URL="../main.vi"/>
+		<Item Name="Laser_com_2022.lvlib" Type="Library" URL="../Laser_com_2022/Laser_com_2022.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>
