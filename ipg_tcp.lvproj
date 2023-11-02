@@ -12,6 +12,10 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="Test" Type="Folder">
+			<Item Name="mock_laser.vi" Type="VI" URL="../Test/mock_laser.vi"/>
+			<Item Name="mock_crio.vi" Type="VI" URL="../Test/mock_crio.vi"/>
+		</Item>
 		<Item Name="Laser_Ethernet.lvclass" Type="LVClass" URL="../Laser_Ethernet_class/Laser_Ethernet.lvclass"/>
 		<Item Name="Laser Ethernet Rack.lvclass" Type="LVClass" URL="../Laser Ethernet Rack_class/Laser Ethernet Rack.lvclass"/>
 		<Item Name="Laser Ethernet Cabinet.lvclass" Type="LVClass" URL="../Laser Ethernet Cabinet_class/Laser Ethernet Cabinet.lvclass"/>
@@ -22,6 +26,10 @@
 				<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
 				<Item Name="NI_Data Type.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/Data Type/NI_Data Type.lvlib"/>
+				<Item Name="TCP Listen List Operations.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/tcp.llb/TCP Listen List Operations.ctl"/>
+				<Item Name="TCP Listen Internal List.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/tcp.llb/TCP Listen Internal List.vi"/>
+				<Item Name="Internecine Avoider.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/tcp.llb/Internecine Avoider.vi"/>
+				<Item Name="TCP Listen.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/tcp.llb/TCP Listen.vi"/>
 			</Item>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>

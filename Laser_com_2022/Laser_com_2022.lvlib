@@ -4,4 +4,9 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">587235328</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
+	<Item Name="crc16.vi" Type="VI" URL="../crc16.vi"/>
+	<Item Name="ipg_float.vi" Type="VI" URL="../ipg_float.vi"/>
+	<Item Name="ipg_ulong.vi" Type="VI" URL="../ipg_ulong.vi"/>
+	<Item Name="ipg_ushort.vi" Type="VI" URL="../ipg_ushort.vi"/>
+	<Item Name="Set_PRR.vi" Type="VI" URL="../Set_PRR.vi"/>
 </Library>
