@@ -8,5 +8,6 @@
 	<Item Name="ipg_float.vi" Type="VI" URL="../ipg_float.vi"/>
 	<Item Name="ipg_ulong.vi" Type="VI" URL="../ipg_ulong.vi"/>
 	<Item Name="ipg_ushort.vi" Type="VI" URL="../ipg_ushort.vi"/>
+	<Item Name="Set_Power_to_100.vi" Type="VI" URL="../Set_Power_to_100.vi"/>
 	<Item Name="Set_PRR.vi" Type="VI" URL="../Set_PRR.vi"/>
 </Library>

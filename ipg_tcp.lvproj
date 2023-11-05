@@ -15,6 +15,7 @@
 		<Item Name="Test" Type="Folder">
 			<Item Name="mock_laser.vi" Type="VI" URL="../Test/mock_laser.vi"/>
 			<Item Name="mock_crio.vi" Type="VI" URL="../Test/mock_crio.vi"/>
+			<Item Name="1kw_main_test.vi" Type="VI" URL="../Test/1kw_main_test.vi"/>
 		</Item>
 		<Item Name="Laser_Ethernet.lvclass" Type="LVClass" URL="../Laser_Ethernet_class/Laser_Ethernet.lvclass"/>
 		<Item Name="Laser Ethernet Rack.lvclass" Type="LVClass" URL="../Laser Ethernet Rack_class/Laser Ethernet Rack.lvclass"/>
